@@ -1,0 +1,50 @@
+html {
+  font-family: "Libreria Fox", arial;
+  background-color: coral;
+  
+}
+.header {
+  text-align: center;
+  background-image:url("../IMGS/cabecera.jpg");
+  background-position: center;
+  background-size:cover;
+  height: 13em;
+  padding:2em;
+  color:deeppink(238, 219, 0);
+  box-shadow:10px 10px 5px 12px lightsalmon;
+}
+.header h1 {
+  margin: 0;
+  font-weight: 400;
+  padding: 0.85em;
+  color:blanchedalmond;
+}
+.header p {
+  padding-top: 0.10em;
+  margin: 0;
+  color:blanchedalmond;
+}
+
+.items {
+  width: 80%;
+  margin: 5px;
+  }
+
+.items td {
+  width: 50%;
+  margin: 2;
+  }
+
+.items img {
+  width: 30%;
+  border: 10em; 
+  border-radius: 10;
+ }
+
+ .footer {
+  height: 3em;
+  line-height: 3em;
+  background-color: rgb(197, 112, 113);
+  color: white;
+  text-align: center;
+  font-weight: 900;}

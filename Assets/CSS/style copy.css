@@ -1,0 +1,27 @@
+html{
+font-family : "Libreria Fox", arial;
+background-color: rgb(179, 76, 124);
+}
+
+.header{
+text-align: center;
+background-image: url("/Assets/IMGS/cabecera.jpg");
+background-position: center;
+background-size: cover;
+height: 10em;
+padding: 2em;
+color: green(238, 219,0);
+box-shadow: 10PX 10PX 5PX 12PX lightsalmon;
+}
+
+.header h1{
+margin: 0;
+font-weight: 400;
+padding: 0.75em;
+}
+
+.header h3{
+    padding-top: 0.7em;
+    margin: 0;
+}
+
